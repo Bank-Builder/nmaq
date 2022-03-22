@@ -2,7 +2,7 @@
 
 `nmaq` a play on `nmap` but with q for **quaint** instead is a tool to bulk run detailed nmap scans against a list of ip's or hostnames specified in the `nmaq.list` file.
 
-> **WARNING** : Be CAREFUL and HAVE PERMISSION to run scans against production hosts.  It it quite possible that one or more of such hosts could be running [fail2ban]() or an equivalent and you will effectively lock yourself out of all the hosts with one press of the ENTER key!
+> **WARNING** : Be CAREFUL and HAVE PERMISSION to run scans against production hosts.  It it quite possible that one or more of such hosts could be running [fail2ban](https://www.fail2ban.org) or an equivalent and you will effectively lock yourself out of all the hosts with one press of the ENTER key!
 
 ## Requirements
 ```
